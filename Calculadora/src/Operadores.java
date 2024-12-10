@@ -46,9 +46,6 @@ public class Operadores {
 			break; 
 		}
 		
-		//Continuação da conta anterior
-
-		
 		//Quer continuar a execução do programa?
 		
 		System.out.println("\nDeseja efetuar outra operação? (s/n): ");
